@@ -8,6 +8,6 @@ Concatinate ts files.
 
 # How to use
 1. Must stored any ts files to one folder.
-2. Execute cat_ts.py
+2. Execute ts_cat.py
 3. Execute cat.bat
 4. Generated output.mp4
